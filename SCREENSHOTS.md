@@ -7,11 +7,11 @@
 | 도란도란 | [첫 화면](assets/screenshots/doran-doran.jpg) | https://doran-doran-front.vercel.app/ · 공개 랜딩. 무료 시작은 Google 로그인으로 연결되어 내부 화면은 촬영하지 않음. |
 | BiddingFlow | [로그인](assets/screenshots/biddingflow-login.jpg) | [프론트엔드 저장소](https://github.com/Uranium10/SKN31-FINAL-front)의 기존 로컬 체크아웃에서 Vite 실행. 로그인 후 작업함은 촬영하지 않음. |
 | USD | [시작](assets/screenshots/usd-title.jpg), [거래 화면](assets/screenshots/usd-market.jpg) | https://usd-public.vercel.app/ · 새 게임 → 프롤로그·튜토리얼 건너뛰기 → 정보 없이 진행 → 1일차 시작. 게임 내 가상 자산 화면. |
-| 건망검진 | [서비스 소개](assets/screenshots/dementia.jpg) | https://dementia-front.vercel.app/ · 공개 소개 화면 캡처. 현재 UI에는 치매정보알리미 / 치매케어 포털로 표시됨. 상담 세션은 생성하지 않음. |
+| 치매정보알리미 | [서비스 소개](assets/screenshots/dementia.jpg) | https://dementia-front.vercel.app/ · 공개 소개 화면 캡처. 상담 세션은 생성하지 않음. |
 | apple-online | [게임 보드](assets/screenshots/apple-online.jpg) | https://apple-online.vercel.app/ · 촬영용 닉네임으로 진입 후 혼자 하기. 채팅 전송과 순위 등록 없이 보드 촬영. |
 | MDViewer | [리더](assets/screenshots/mdviewer.jpg) | https://md-viewer-drab.vercel.app/ · 직접 작성한 촬영용 Markdown 예시 문서를 붙여 넣음. 공유 기능은 사용하지 않음. |
 | HeadHandLeg | [게임 장면](assets/screenshots/head-hand-leg.jpg) | [저장소](https://github.com/Uranium10/HeadHandLeg)의 기존 로컬 프로덕션 빌드를 `next start -p 4311`로 실행. Local Sandbox 첫 장면. 원격 멀티플레이 미검증. |
-| 선거 대시보드 | [전국 지도](assets/screenshots/voting-dashboard.jpg) | https://voting-dashboard-front.vercel.app/ · 8회(2022년) 선택. 지도 표시는 확인했으나 서버 상세 결과와 데이터 정확성은 검증하지 않음. 저장소 README는 기본 Vite 안내로, 대체 실행 이미지는 없었음. |
+| 선거 대시보드 | [전국 지도](assets/screenshots/voting-dashboard.jpg) | https://voting-dashboard-front.vercel.app/ · 8회(2022년) 결과 선택. 9회 데이터는 제작 당시 예측값이며 이 이미지에 표시되지 않음. 지도 표시는 확인했으나 서버 상세 조회와 데이터 정확성은 검증하지 않음. 저장소 README는 기본 Vite 안내로, 대체 실행 이미지는 없었음. |
 | typo99 | [플레이](assets/screenshots/typo99.jpg) | https://typo99.vercel.app/ · 일반 모드 시작 후 문제·타이머 화면. 순위표에 기록을 제출하지 않음. |
 | alkanoid | [지도](assets/screenshots/alkanoid.jpg) | https://alkanoid-rouge.vercel.app/ · 시작 전 지도 영역을 스크롤하여 촬영. 지역 목록과 지도 표시 확인. |
 | MiniStudio | [UI 미리보기](assets/screenshots/ministudio-preview.jpg) | [README](https://github.com/Uranium10/MiniStudio#readme)에 안내된 브라우저 미리보기. 새 복제본에서 `npm ci`, Vite 실행. 빈 프로젝트에 악기 트랙을 추가해 타임라인과 패널 촬영. 네이티브 오디오 미연결로 ERROR 표시. |
