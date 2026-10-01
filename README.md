@@ -43,6 +43,8 @@ Sep 30, 2026 · @Uranium
 
 **기술**: Python, FastAPI, LangGraph, Supabase, TypeScript, Vercel. 서비스: [doran-doran-front.vercel.app](https://doran-doran-front.vercel.app)
 
+운영 중, 제4회 문체부 인공지능ㆍ데이터 공모전 문화데이터 우수사례부문 대상 수상
+
 ## BiddingFlow — 구매 업무 자동화 플랫폼 (팀 최종 프로젝트)
 
 ![BiddingFlow — ERPNext 계정 로그인 화면](assets/screenshots/biddingflow-login.jpg)
