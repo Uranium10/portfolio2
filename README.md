@@ -18,9 +18,28 @@ Sep 30, 2026 · @Uranium
 
 ## 도란도란 — 아이 수준에 맞춰 다시 써 주는 전래동화
 
-![도란도란 — 전래동화 서비스 첫 화면](assets/screenshots/doran-doran.jpg)
+![도란도란 — 읽기 단계와 이어 읽기, 스티커북이 보이는 아이 책방](assets/screenshots/doran-dashboard.png)
 
-*배포 서비스의 공개 첫 화면. 동화 생성과 개인 책장은 로그인이 필요합니다.*
+*로그인한 아이 프로필의 책방 화면. 읽기 진행률과 이어 읽을 동화, 스티커북이 한곳에 모여 있습니다.*
+
+![도란도란 — 삽화·본문·낭독 도구가 함께 보이는 동화 읽기 화면](assets/screenshots/doran-reader.png)
+
+*실제 생성된 동화의 첫 장. 삽화와 글을 펼친 책으로 보여 주고 낭독 재생 도구를 함께 제공합니다.*
+
+<details>
+<summary>독해 문제·어휘 확인·스티커북·부모 성장 기록·공개 첫 화면 보기</summary>
+
+![도란도란 — 동화 내용에 관한 독해 문제](assets/screenshots/doran-quiz.png)
+
+![도란도란 — 동화에 쓰인 낱말과 읽기 수준 확인](assets/screenshots/doran-vocabulary.png)
+
+![도란도란 — 독해 문제를 풀고 모은 스티커북](assets/screenshots/doran-stickerbook.png)
+
+![도란도란 — 부모가 보는 아이의 성장 기록](assets/screenshots/doran-parent-dashboard.png)
+
+![도란도란 — 전래동화 서비스 공개 첫 화면](assets/screenshots/doran-doran.jpg)
+
+</details>
 
 **도란도란은 공공데이터 속 우리 설화를 아이의 지금 읽기 수준에 맞는 이야기로 다시 들려주는 전래동화 생성 서비스입니다.** 2026년 6월에 시작해 서비스로 운영하고 있으며, 9월 30일 범정부 공공데이터·AI 활용 창업경진대회 통합본선에서 발표했습니다(결과 대기).
 
